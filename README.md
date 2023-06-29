@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nethusha Dulmina</h1>
 <h3 align="center">A FiveM DEveloper</h3>
-
-<img align="left" src="https://media.discordapp.net/attachments/954781623323357215/1124004189811519488/happy-hacker.gif" alt="">
+<img align="right" src="https://media.discordapp.net/attachments/954781623323357215/1124004189811519488/happy-hacker.gif" alt="">
 
 <p align="left"> <a href="https://twitter.com/nethushaguru" target="blank"><img src="https://img.shields.io/twitter/follow/nethushaguru?logo=twitter&style=for-the-badge" alt="nethushaguru" /></a> </p>
 
