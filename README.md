@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nethusha Dulmina</h1>
 <h3 align="center">Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/nethushaguru" target="blank"><img src="https://img.shields.io/twitter/follow/nethushaguru?logo=twitter&style=for-the-badge" alt="nethushaguru" /></a> </p>
-
-<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/954781623323357215/1124004189811519488/happy-hacker.gif">
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nethushaguru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nethushaguru" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nethusha dulmina guruge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nethusha dulmina guruge" height="30" width="40" /></a>
 <a href="https://discord.gg/zKjXYuXUKP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zKjXYuXUKP" height="30" width="40" /></a>
 </p>
 
