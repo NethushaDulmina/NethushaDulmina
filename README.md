@@ -1,5 +1,5 @@
 <div align="center">
-  ![github-2](https://github.com/user-attachments/assets/d863aff9-92da-48a7-a8c4-9f993ba62613)
+  <img src="[https://komarev.com/ghpvc/?username=nethushadulmina&label=Profile%20Views&color=0eb448&style=flat](https://github.com/user-attachments/assets/d863aff9-92da-48a7-a8c4-9f993ba62613)" />
 </div>
 
 <div align="center">
