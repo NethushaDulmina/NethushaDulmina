@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/87743415/369625499-d2a17e12-743c-4fcf-90cf-3e768bdf8e63.gif" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/87743415/369625499-d2a17e12-743c-4fcf-90cf-3e768bdf8e63.gif" alt="NethushDev Logo" />
 </div>
 
 <div align="center">
