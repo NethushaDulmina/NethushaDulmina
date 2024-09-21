@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://komarev.com/ghpvc/?username=nethushadulmina&label=Profile%20Views&color=0eb448&style=flat](https://github.com/user-attachments/assets/d863aff9-92da-48a7-a8c4-9f993ba62613)" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/87743415/369625499-d2a17e12-743c-4fcf-90cf-3e768bdf8e63.gif" />
 </div>
 
 <div align="center">
