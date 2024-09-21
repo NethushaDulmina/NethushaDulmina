@@ -1,4 +1,8 @@
 <div align="center">
+  ![github-2](https://github.com/user-attachments/assets/d863aff9-92da-48a7-a8c4-9f993ba62613)
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=25&pause=1000&color=00F8B9&center=true&width=500&lines=Hello%2C+I'm+NethushDev;Developer+from+a+Small+Island;Level+2+Seller+on+Fiverr;Passionate+about+Coding+%26+Creativity" alt="Typing SVG" />
   </a>
@@ -78,8 +82,3 @@
 </p>
 
 ---
-
-### 🏆 Achievements:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nethushadulmina&theme=onedark&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
