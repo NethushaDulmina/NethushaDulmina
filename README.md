@@ -12,6 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=nethushadulmina&label=Profile%20Views&color=0eb448&style=flat" alt="Profile Views" />
 </p>
 
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D27280%26project%3D%26in=0)](https://codetime.dev)
+
 ---
 
 ### 🌐 Connect with me:
