@@ -85,4 +85,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethushadulmina&theme=onedark" alt="GitHub Streak" />
 </p>
 
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nethushadulmina)]
+
 ---
