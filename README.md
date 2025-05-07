@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nethushadulmina" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nethushadulmina&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
